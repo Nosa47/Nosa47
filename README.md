@@ -4,9 +4,9 @@ I'm a junior DevOps engineer passionate about crafting efficient and scalable so
 
 💻 My Stack
 
-CI/CD: Jenkins, GitLab CI/CD
-Automation: Ansible, Terraform
-Cloud: AWS, Azure
+CI/CD: GitLab CI/CD
+Automation: Terraform
+Cloud: AWS
 Containerization: Docker, Kubernetes
 
 🚀 What I Do
