@@ -2,8 +2,6 @@
 
 <p>I'm a junior DevOps engineer passionate about crafting efficient and scalable solutions. My journey in tech began with HTML, CSS, and JS, and now I'm diving into CI/CD pipelines, automation, and cloud infrastructure to enhance digital experiences.</p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <h1>💻 My Stack</h1>
 
 <ul>
@@ -14,7 +12,6 @@
   <li>Scripting: Bash, Python</li>
 </ul>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>🚀 What I Do</h1>
 
@@ -24,19 +21,16 @@
   <li>Collaborate with development teams to streamline deployment processes.</li>
 </ul>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>🌟 My Passion</h1>
 
 <p>I'm dedicated to fostering inclusivity in tech and empowering others to embark on their coding journeys. I actively support initiatives that promote diversity in the DevOps community.</p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>⚽ Football Fanatic</h1>
 
 <p>Outside of tech, I'm a die-hard Arsenal fan and football enthusiast. Whether it's watching matches, analyzing tactics, or playing on the field myself, football is my ultimate passion. It's not just a game but a source of inspiration and camaraderie.</p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>📫 Let's Connect</h1>
 
