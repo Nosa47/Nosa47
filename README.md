@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>💻 My Stack</h2>
+<h1>💻 My Stack</h1>
 
 <ul>
   <li>CI/CD: GitLab CI/CD</li>
@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>🚀 What I Do</h2>
+<h1>🚀 What I Do</h1>
 
 <ul>
   <li>Implement CI/CD pipelines to automate software delivery.</li>
@@ -25,19 +25,19 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>🌟 My Passion</h2>
+<h1>🌟 My Passion</h1>
 
 <p>I'm dedicated to fostering inclusivity in tech and empowering others to embark on their coding journeys. I actively support initiatives that promote diversity in the DevOps community.</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>⚽ Football Fanatic</h2>
+<h1>⚽ Football Fanatic</h1>
 
 <p>Outside of tech, I'm a die-hard Arsenal fan and football enthusiast. Whether it's watching matches, analyzing tactics, or playing on the field myself, football is my ultimate passion. It's not just a game but a source of inspiration and camaraderie.</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>📫 Let's Connect</h2>
+<h1>📫 Let's Connect</h1>
 
 <ul>
   <li><a href="https://www.linkedin.com/in/destiny-uadiale-362a07292">LinkedIn</a></li>
