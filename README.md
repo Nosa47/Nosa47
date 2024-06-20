@@ -26,6 +26,8 @@ Outside of tech, I'm a die-hard Arsenal fan and football enthusiast. Whether it'
 📫 Let's Connect
 
 [LinkedIn](www.linkedin.com/in/destiny-uadiale-362a07292)
+
 [X](https://x.com/_kingnosa)
-[GitHub]()
+
+[GitHub](https://github.com/Nosa47)
 Feel free to reach out! Let's collaborate and innovate together. #NOSA
