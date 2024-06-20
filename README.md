@@ -36,7 +36,7 @@ Outside of tech, I'm a die-hard Arsenal fan and football enthusiast. Whether it'
 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/destiny-uadiale-362a07292)
-- [X] (https://x.com/_kingnosa)
+- [Twitter](https://x.com/_kingnosa)  
 - [GitHub](https://github.com/Nosa47)
 
 
