@@ -1,4 +1,4 @@
-<h2>👋🏿 Hello, I'm Uadiale Destiny!</h2>
+<h1>👋🏿 Hello, I'm Uadiale Destiny!</h1>
 
 <p>I'm a junior DevOps engineer passionate about crafting efficient and scalable solutions. My journey in tech began with HTML, CSS, and JS, and now I'm diving into CI/CD pipelines, automation, and cloud infrastructure to enhance digital experiences.</p>
 
