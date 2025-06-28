@@ -1,43 +1,40 @@
 <h1>👋🏿 Hello, I'm Uadiale Destiny!</h1>
 
-<p>I'm a junior DevOps engineer passionate about crafting efficient and scalable solutions. My journey in tech began with HTML, CSS, and JS, and now I'm diving into CI/CD pipelines, automation, and cloud infrastructure to enhance digital experiences.</p>
+<p>I'm a passionate full-stack web developer with expertise in building modern, responsive web applications. My journey in tech began with HTML, CSS, and JS, and has evolved into creating complete solutions with both frontend and backend technologies.</p>
 
-<h1>💻 My Stack</h1>
+<h1>💻 My Tech Stack</h1>
 
 <ul>
-  <li>CI/CD: GitLab CI/CD</li>
-  <li>Automation: Terraform</li>
-  <li>Cloud: AWS</li>
-  <li>Containerization: Docker, Kubernetes</li>
-  <li>Scripting: Bash, Python</li>
+  <li>Frontend: React, Next.js, HTML5, CSS3, JavaScript, Tailwind</li>
+  <li>Backend: Node.js, Express, Python, Django, Flask, PHP, Laravel, FastAPI</li>
+  <li>Databases: MongoDB, PostgreSQL, MySQL</li>
+  <li>DevOps: Docker, AWS, CI/CD pipelines</li>
+  <li>Tools: Git, Webpack, Babel, RESTful APIs</li>
 </ul>
-
 
 <h1>🚀 What I Do</h1>
 
 <ul>
-  <li>Implement CI/CD pipelines to automate software delivery.</li>
-  <li>Manage and optimize cloud infrastructure for scalability and reliability.</li>
-  <li>Collaborate with development teams to streamline deployment processes.</li>
+  <li>Develop responsive, user-friendly web applications from concept to deployment</li>
+  <li>Build robust backend systems and efficient database architectures</li>
+  <li>Create seamless integration between frontend and backend components</li>
+  <li>Optimize web performance and implement best security practices</li>
 </ul>
-
 
 <h1>🌟 My Passion</h1>
 
-<p>I'm dedicated to fostering inclusivity in tech and empowering others to embark on their coding journeys. I actively support initiatives that promote diversity in the DevOps community.</p>
-
+<p>I'm dedicated to creating accessible web experiences and mentoring aspiring developers. I believe in the power of technology to solve real-world problems and actively contribute to open-source projects.</p>
 
 <h1>⚽ Football Fanatic</h1>
 
-<p>Outside of tech, I'm a die-hard Arsenal fan and football enthusiast. Whether it's watching matches, analyzing tactics, or playing on the field myself, football is my ultimate passion. It's not just a game but a source of inspiration and camaraderie.</p>
-
+<p>When I'm not coding, you'll find me cheering for Arsenal or analyzing football tactics. The beautiful game inspires my approach to teamwork and problem-solving in development.</p>
 
 <h1>📫 Let's Connect</h1>
 
 <ul>
   <li><a href="https://www.linkedin.com/in/destiny-uadiale-362a07292">LinkedIn</a></li>
-  <li><a href="https://x.com/_kingnosa">Twitter</a></li>
+  <li><a href="https://x.com/devnosa_">Twitter</a></li>
   <li><a href="https://github.com/Nosa47">GitHub</a></li>
 </ul>
 
-<p>Feel free to reach out! Let's collaborate and innovate together. #NOSA</p>
+<p>Always open to exciting projects and collaborations. Let's build something amazing together! #NOSA</p>
