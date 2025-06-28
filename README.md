@@ -1,6 +1,6 @@
 <h1>👋🏿 Hello, I'm Uadiale Destiny!</h1>
 
-<p>I'm a passionate full-stack web developer with expertise in building modern, responsive web applications. My journey in tech began with HTML, CSS, and JS, and has evolved into creating complete solutions with both frontend and backend technologies.</p>
+<p>I'm a passionate full-stack web developer and devops engineer with expertise in building modern, responsive web applications. My journey in tech began with HTML, CSS, and JS, and has evolved into creating complete solutions with both frontend and backend technologies.</p>
 
 <h1>💻 My Tech Stack</h1>
 
