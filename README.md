@@ -8,7 +8,7 @@
   <li>Frontend: React, Next.js, HTML5, CSS3, JavaScript, Tailwind</li>
   <li>Backend: Node.js, Express, Python, Django, Flask, PHP, Laravel, FastAPI</li>
   <li>Databases: MongoDB, PostgreSQL, MySQL</li>
-  <li>DevOps: Docker, AWS, CI/CD pipelines</li>
+  <li>DevOps: Docker, Terraform, AWS, CI/CD pipelines</li>
   <li>Tools: Git, Webpack, Babel, RESTful APIs</li>
 </ul>
 
